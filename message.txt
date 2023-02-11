@@ -1,4 +1,0 @@
-{ 
-"SendMessage":7, 
-"MyMessage": 
-"Contact me if may prob🥳" }
